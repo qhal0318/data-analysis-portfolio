@@ -32,9 +32,7 @@ streamlit run Home.py
 
 ## 📧 Contact
 
-- Email: your.email@example.com
-- LinkedIn: [링크]
-- GitHub: [링크]
+- Email: qhal0318@gmail.com
 ```
 
 ---

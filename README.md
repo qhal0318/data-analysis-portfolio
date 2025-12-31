@@ -9,7 +9,7 @@
 
 **데이터 기반 의사결정으로 비즈니스 임팩트를 만드는 데이터 분석가**
 
-[📧 Email](mailto:your.email@example.com) • [💼 LinkedIn](#) • [📝 Blog](#)
+[📧 Email](mailto:qhal0318@gmail.com) 
 
 </div>
 

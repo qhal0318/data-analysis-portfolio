@@ -182,10 +182,7 @@ streamlit run Home.py
 
 ## 📧 Contact
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [프로필 링크](#)
-- **Blog**: [블로그 링크](#)
-- **GitHub**: [@qhal0318](https://github.com/qhal0318)
+- **Email**: qhal0318@gmail.com
 
 ---
 
